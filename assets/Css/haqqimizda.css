@@ -1,0 +1,25 @@
+.haqqımızda{
+text-align: center;
+height: 100px;
+background-color: #008D96;
+color: white;
+font-family: sans-serif;
+display: flex;
+flex-direction: column;
+gap: 20px;}
+
+.container6 .information p{
+width: 400px;
+}
+
+.aboutbakudevs{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 30px;
+}
+.information{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
