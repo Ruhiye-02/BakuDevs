@@ -1,0 +1,62 @@
+.elaqe{
+    text-align: center;
+height: 100px;
+background-color: #008D96;
+color: white;
+font-family: sans-serif;
+display: flex;
+flex-direction: column;
+gap: 20px;}
+
+.box{
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color:  #F4D2B8;
+    margin-bottom: 20px;
+}
+.box i{
+    color: white;
+    background-color: orange;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+ .container7 .boxes{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.container7 h2, .container7 p{
+text-align: center;
+}
+.container7 p{
+    color: #939393;
+}
+.nameemailcontact{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.inputs{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+input{
+    padding: 10px;
+    color: #939393;
+}
+.message {
+    height: 100px;
+}
