@@ -1,0 +1,90 @@
+.inputs{
+    margin-top: 40px;
+   /* background-color: #E93E32; */
+    padding: 20px;
+    
+}
+.inputs input{
+    padding: 20px 60px;
+    border-radius: 5px;
+    background-color: #F6F6F7;
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.inputs .face i{
+    background-color: rgb(10, 10, 85);
+    color: white;
+    padding: 20px;
+    border-radius: 5px 0px 0px 5px;
+    
+}
+.google i {
+    color: white;
+    background-color:red;
+    padding: 19px;
+    border-radius: 5px 0px 0px 5px;
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    background-color: white; 
+}
+.mainform{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+.code{
+    display: flex;
+    align-items: center;
+}
+.form input{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    
+}
+.inputs .face, .google, .email, .code{
+    border: 1px solid #F6F6F7;
+    border-radius: 5px 0px 0px 5px;
+    background-color: #d2d2e9;
+}
+.email i, .code i{
+    padding-left: 9px;
+}
+.save{
+    display: flex;
+    gap: 40px;
+
+    
+}
+.daxilolbutton a {
+    border: 1px solid #008D96;
+    color: white;
+    background-color: #008D96;
+    padding: 10px 30px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+.qeydiyyat{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.daxilolbutton{
+    margin-top: 20px;
+    
+}
+
+
