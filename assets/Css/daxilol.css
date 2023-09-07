@@ -35,14 +35,14 @@
     flex-direction: column;
     gap: 20px;
     align-items: center;
-    background-color: white; 
+    background-color: white;
+    
 }
 .mainform{
     display: flex;
     flex-direction: column;
     align-items: center;
-    
-    
+
 }
 .code{
     display: flex;
@@ -57,7 +57,7 @@
 .inputs .face, .google, .email, .code{
     border: 1px solid #F6F6F7;
     border-radius: 5px 0px 0px 5px;
-    background-color: #d2d2e9;
+    background-color: #F6F6F7;
 }
 .email i, .code i{
     padding-left: 9px;

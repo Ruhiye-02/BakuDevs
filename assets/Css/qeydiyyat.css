@@ -1,0 +1,23 @@
+.container9 .mainform
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   background-color: aliceblue;
+}
+
+.container9{
+    display: flex;
+    flex-direction: column;
+}
+
+.ad,.repeatcode{
+    
+    border: 1px solid #F6F6F7;
+    border-radius: 5px 0px 0px 5px;
+    background-color: #F6F6F7;
+}
+.form{
+    border-radius: 20px;
+}
